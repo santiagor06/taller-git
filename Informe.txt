@@ -1,0 +1,4 @@
+lo visto en la clase anterior fue:
+-aprendimos comandos basicos de la consola,como cd para acceder a carpetas y mkdir para crearlas.
+-aprendimos comandos basicos de git como git init ,git add y git commit.
+-aprendimos comandos que nos permitian ver el historial de commits y poder volver a alguno de ellos 
